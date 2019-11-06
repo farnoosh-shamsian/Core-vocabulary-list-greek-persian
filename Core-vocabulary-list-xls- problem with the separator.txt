@@ -1,0 +1,3149 @@
+{
+  "rows" : [
+    {
+      "HEADWORD" : "ὁ ἡ τό",
+      "DEFINITION" : "حرف تعریف. در فارسی گاه می‌تواند به «آن» ترجمه شود.",
+      "PART OF SPEECH" : "حرف تعریف",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 1
+    }#    {
+      "HEADWORD" : "αὐτός αὐτή αὐτό",
+      "DEFINITION" : "خودش، خود آن (برای تاکید)؛ به همراه حرف تعریف: همان؛ در حالت غیرفاعلی: او/آن را، به او/آن",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 2
+    }#    {
+      "HEADWORD" : "καί",
+      "DEFINITION" : "و، هم، نیز",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 3
+    }#    {
+      "HEADWORD" : "δέ",
+      "DEFINITION" : "و، ولی، اما",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 4
+    }#    {
+      "HEADWORD" : "τίς τί",
+      "DEFINITION" : "که؟ چه؟ کدام؟",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 5
+    }#    {
+      "HEADWORD" : "εἰμί, ἔσομαι, impf. ἦν, infin. εἶναι",
+      "DEFINITION" : "بودن",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 6
+    }#    {
+      "HEADWORD" : "οὗτος αὕτη τοῦτο",
+      "DEFINITION" : "این، μετὰ ταῦτα: پس از این/آن",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 7
+    }#    {
+      "HEADWORD" : "ἤ",
+      "DEFINITION" : "یا؛ با صفت تفضیلی: از",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 8
+    }#    {
+      "HEADWORD" : "ἐν",
+      "DEFINITION" : "در، میان (+برایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 9
+    }#    {
+      "HEADWORD" : "μέν...δέ",
+      "DEFINITION" : "گرچه، با اینکه، از طرفی؛ μέν بدون δέ: همانا",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 10
+    }#    {
+      "HEADWORD" : "τις τι",
+      "DEFINITION" : " کسی، چیزی؛ هر کس، هر چه (ضمیر نامعین متصل)",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 11
+    }#    {
+      "HEADWORD" : "ὅς ἥ ὅ",
+      "DEFINITION" : "که، آنکه، آنچه",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 12
+    }#    {
+      "HEADWORD" : "γάρ",
+      "DEFINITION" : "همانا، چرا که، حقیقتا، زیرا",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 13
+    }#    {
+      "HEADWORD" : "οὐ, οὐκ, οὐχ",
+      "DEFINITION" : "ادات نفی (+اخباری)",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 14
+    }#    {
+      "HEADWORD" : "λέγω, ἐρῶ, εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην and ἐρρήθην",
+      "DEFINITION" : "گفتن، گفتگو کردن، برشمردن، برداشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 15
+    }#    {
+      "HEADWORD" : "ὡς",
+      "DEFINITION" : "از آنجایی که، چنان، چنان‌که، به جهت؛ که، تا (+التزامی و تمنایی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 16
+    }#    {
+      "HEADWORD" : "τε",
+      "DEFINITION" : "و، هم",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 17
+    }#    {
+      "HEADWORD" : "εἰς",
+      "DEFINITION" : "سوی، طرف، به، تا (+رایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 18
+    }#    {
+      "HEADWORD" : "ἐπί",
+      "DEFINITION" : "بر، روی، برابر، مقابل (+رایی، اضافی و برایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 19
+    }#    {
+      "HEADWORD" : "κατά",
+      "DEFINITION" : "پایین، زیر؛ همسو، مطابق، هماهنگ با؛ (κατὰ γῆν: از راه زمین، καθ᾿ἕνα: یک به یک)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 20
+    }#    {
+      "HEADWORD" : "ἐγώ ἐμοῦ, (pl.) ἡμεῖς, ἡμῶν",
+      "DEFINITION" : "مفرد: من، جمع: ما",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 21
+    }#    {
+      "HEADWORD" : "πρός",
+      "DEFINITION" : "سوی، مقابل (+رایی) از سوی (+اضافی) نزد، حدود، علاوه بر (+برایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 22
+    }#    {
+      "HEADWORD" : "γίγνομαι, γενήσομαι, 2 aor. ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην",
+      "DEFINITION" : "شدن، رخ دادن، پدید آمدن، به دنیا آمدن، بودن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 23
+    }#    {
+      "HEADWORD" : "ἐάν (εἰ-ἄν)",
+      "DEFINITION" : "اگر (+التزامی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 24
+    }#    {
+      "HEADWORD" : "διά",
+      "DEFINITION" : "طی، حین، به خاطر (+ رایی و اضافی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 25
+    }#    {
+      "HEADWORD" : "ἀλλά",
+      "DEFINITION" : "اما، بلکه",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 26
+    }#    {
+      "HEADWORD" : "πᾶς πᾶσα πᾶν",
+      "DEFINITION" : "همه، تمام",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 27
+    }#    {
+      "HEADWORD" : "ἔχω, ἕξω or σχήσω, 2 aor. ἔσχον, ἔσχηκα, impf. εἶχον",
+      "DEFINITION" : "داشتن، نگه‌داشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 28
+    }#    {
+      "HEADWORD" : "ἐκ, ἐξ",
+      "DEFINITION" : "از (+اضافی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 29
+    }#    {
+      "HEADWORD" : "πολύς πολλή πολύ",
+      "DEFINITION" : "بسیار، بسیاری",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 30
+    }#    {
+      "HEADWORD" : "περί",
+      "DEFINITION" : "پیرامون، درباره (+اضافی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 31
+    }#    {
+      "HEADWORD" : "μή",
+      "DEFINITION" : "ادات نفی (+التزامی و شرطی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 32
+    }#    {
+      "HEADWORD" : "ὅστις ἥτις ὅ τι",
+      "DEFINITION" : "آنکه، آنچه، هر آن کس/چیز که",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 33
+    }#    {
+      "HEADWORD" : "ἄν",
+      "DEFINITION" : "ادات همراه با افعال التزامی و تمنایی، عموما برای نشان دادن شرط، احتمال، التزام یا بند وابسته.",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 34
+    }#    {
+      "HEADWORD" : "σύ, σοῦ, (pl.) ὑμεῖς, ὑμῶν",
+      "DEFINITION" : "مفرد: تو، جمع: شما",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 35
+    }#    {
+      "HEADWORD" : "ἀνά",
+      "DEFINITION" : "بالای، روی، رو به بالا؛ طی",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 36
+    }#    {
+      "HEADWORD" : "ὅτι",
+      "DEFINITION" : "که، آنگاه، چرا که",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 37
+    }#    {
+      "HEADWORD" : "εἰ",
+      "DEFINITION" : "اگر (+اخباری و تمنایی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 38
+    }#    {
+      "HEADWORD" : "ἄλλος ἄλλη ἄλλο",
+      "DEFINITION" : "دیگر، دیگری",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 39
+    }#    {
+      "HEADWORD" : "ἀπό",
+      "DEFINITION" : "از (+اضافی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 40
+    }#    {
+      "HEADWORD" : "φημί, φήσω, impf. ἔφην",
+      "DEFINITION" : "گفتن، اظهار کردن، ادعا کردن، تصدیق کردن. οὐ φημί: مخالفت کردن، تکذیب کردن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 41
+    }#    {
+      "HEADWORD" : "ὑπό",
+      "DEFINITION" : "زیر، به زیر، تحت، توسط",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 42
+    }#    {
+      "HEADWORD" : "ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην",
+      "DEFINITION" : "ساختن، پدید آوردن، انجام دادن؛ میانی: فرض کردن، درنظر گرفتن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 43
+    }#    {
+      "HEADWORD" : "οὖν",
+      "DEFINITION" : "بنابراین، بر همین مبنا، به راستی",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 44
+    }#    {
+      "HEADWORD" : "λόγος λόγου, ὁ",
+      "DEFINITION" : "کلمه، سخن، قانون، نظم، عقل، اندیشه، حساب",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 45
+    }#    {
+      "HEADWORD" : "παρά",
+      "DEFINITION" : "کنار، از کنار، در کنار، در مقابل",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 46
+    }#    {
+      "HEADWORD" : "οὕτως",
+      "DEFINITION" : "به نحوی، چنین",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 47
+    }#    {
+      "HEADWORD" : "πρότερος προτέρα πρότερον",
+      "DEFINITION" : "پیش، پیش از؛ τὸ πρότερον: پیش از این",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 48
+    }#    {
+      "HEADWORD" : "θεός θεοῦ, ὁ/ἡ",
+      "DEFINITION" : "ایزد، ایزدبانو",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 49
+    }#    {
+      "HEADWORD" : "μετά",
+      "DEFINITION" : "با، میان (+اضافی)؛ بعد، پس (+رایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 50
+    }#    {
+      "HEADWORD" : "ἑαυτοῦ ἑαυτῆς ἑαυτοῦ",
+      "DEFINITION" : "خودش",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 51
+    }#    {
+      "HEADWORD" : "μέγας μεγάλη μέγα",
+      "DEFINITION" : "بزرگ، بلند، عظیم، قوی",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 52
+    }#    {
+      "HEADWORD" : "οὐδέ",
+      "DEFINITION" : "نه حتی",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 53
+    }#    {
+      "HEADWORD" : "ἐκεῖνος ἐκείνη ἐκεῖνο",
+      "DEFINITION" : "آن چیز، آن کس (اشاره به دور، در مقابل  οὗτος) ",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 54
+    }#    {
+      "HEADWORD" : "τοιοῦτος τοιαύτη τοιοῦτο",
+      "DEFINITION" : "چنان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 55
+    }#    {
+      "HEADWORD" : "οὐδείς οὐδεμία οὐδέν",
+      "DEFINITION" : "هیچ",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 56
+    }#    {
+      "HEADWORD" : "εἶπον",
+      "DEFINITION" : "گفتن (فعل گذشته، نگاه کنید به λέγω, φημί)",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 57
+    }#    {
+      "HEADWORD" : "ἀγαθός –ή –όν",
+      "DEFINITION" : "خوب، نیک، شایسته، نجیب، اصیل",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 58
+    }#    {
+      "HEADWORD" : "γε",
+      "DEFINITION" : "بی شک، همانا (ادات تاکید متصل)",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 59
+    }#    {
+      "HEADWORD" : "δή",
+      "DEFINITION" : "حقیقتا، به راستی",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 60
+    }#    {
+      "HEADWORD" : "πόλις πόλεως, ἡ",
+      "DEFINITION" : "شهر، دولت‌شهر، جامعه",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به ι)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 61
+    }#    {
+      "HEADWORD" : "εἷς μία ἕν",
+      "DEFINITION" : "یک",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 62
+    }#    {
+      "HEADWORD" : "ἵημι, ἥσω, ἧκα, -εἷκα, εἷμαι, -εἵθην",
+      "DEFINITION" : "رها کردن، پرتاب کردن؛ میانی: شتافتن، عجله کردن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 63
+    }#    {
+      "HEADWORD" : "δέω, δεήσω, ἐδέησα, δεδέηκα, δεδέημαι, ἐδεήθην",
+      "DEFINITION" : "نیاز داشتن، چیزی را کم داشتن، فاقد چیزی بودن (+اضافی)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 64
+    }#    {
+      "HEADWORD" : "ἄνθρωπος –ου, ὁ/ἡ",
+      "DEFINITION" : "انسان",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 65
+    }#    {
+      "HEADWORD" : "ὁράω, ὄψομαι, 2 aor. εἶδον, ἑόρακα and ἑώρακα, ὤφθην, impf. ἑώρων",
+      "DEFINITION" : "دیدن، نگریستن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 66
+    }#    {
+      "HEADWORD" : "μόνος μόνη μόνον",
+      "DEFINITION" : "تنها، منفرد",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 67
+    }#    {
+      "HEADWORD" : "οὔτε...οὔτε",
+      "DEFINITION" : "نه... و نه...؛ نه این و نه آن",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 68
+    }#    {
+      "HEADWORD" : "οἷος οἵα οἷον",
+      "DEFINITION" : " چه، به نشان تعجب. (مثال: چه آتشی!)؛ οἷός τε +اسم مصدر: می‌توان... ؛ οἷόν τε+ اسم مصدر: ممکن است...",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 69
+    }#    {
+      "HEADWORD" : "λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην",
+      "DEFINITION" : "گرفتن، به چنگ آوردن، به دست آوردن، دریافت کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 70
+    }#    {
+      "HEADWORD" : "δοκέω, δόξω, ἔδοξα",
+      "DEFINITION" : "پنداشتن، انگاشتن، فرض کردن (+رایی و اسم مصدر)؛ δοκεῖ μοι: به نظرم می رسد",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 71
+    }#    {
+      "HEADWORD" : "ἕτερος ἑτέρα ἕτερον",
+      "DEFINITION" : "دیگر، آن یکی (از یک جفت)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 72
+    }#    {
+      "HEADWORD" : "κακός –ή –όν",
+      "DEFINITION" : "بد، زشت، ناپسند، شرور",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 73
+    }#    {
+      "HEADWORD" : "ἀνήρ ἀνδρός, ὁ",
+      "DEFINITION" : "مرد، شوهر",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 74
+    }#    {
+      "HEADWORD" : "ἐπεί",
+      "DEFINITION" : "از زمانی که، پس از اینکه، هنگامی که",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 75
+    }#    {
+      "HEADWORD" : "ὅσος ὅση ὅσον",
+      "DEFINITION" : "به هر اندازه، بدین بزرگی/اندازه/شمار، همه‌ی آنچه که، همه‌ی آنانی که",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 76
+    }#    {
+      "HEADWORD" : "καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+      "DEFINITION" : "فراخواندن، صدا زدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 77
+    }#    {
+      "HEADWORD" : "σῶμα σώματος, τό",
+      "DEFINITION" : "بدن، تن",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 78
+    }#    {
+      "HEADWORD" : "δεῖ, δεήσει, impf. ἔδει",
+      "DEFINITION" : "بایستی، لازم است که (+رایی و اسم مصدر)",
+      "PART OF SPEECH" : "فعل (غیرشخصی)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 79
+    }#    {
+      "HEADWORD" : "ὥσπερ",
+      "DEFINITION" : "گویی، درحالی‌که",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 80
+    }#    {
+      "HEADWORD" : "δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην",
+      "DEFINITION" : "پیشکش کردن، واگذار کردن، دادن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 81
+    }#    {
+      "HEADWORD" : "ἔτι",
+      "DEFINITION" : "هنوز، همچنان",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 82
+    }#    {
+      "HEADWORD" : "φύσις φύσεως, ἡ",
+      "DEFINITION" : "طبیعت، سرشت",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به ι)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 83
+    }#    {
+      "HEADWORD" : "μικρός –ά –όν",
+      "DEFINITION" : "کوچک، کم، کوتاه",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 84
+    }#    {
+      "HEADWORD" : "δύναμαι, δυνήσομαι, ἐδυνήθην, δεδύνημαι",
+      "DEFINITION" : "توانستن، قادر بودن (+اسم مصدر)",
+      "PART OF SPEECH" : "فعل (غیرشخصی)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 85
+    }#    {
+      "HEADWORD" : "ὥστε",
+      "DEFINITION" : "در نتیجه، تا، تا اینکه",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 86
+    }#    {
+      "HEADWORD" : "ἀρχή ἀρχῆς, ἡ",
+      "DEFINITION" : "ابتدا، آغاز، منشاء، اصل، قلمرو، حاکمیت",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 87
+    }#    {
+      "HEADWORD" : "ἕκαστος ἑκάστη ἕκαστον",
+      "DEFINITION" : "هر یک، هر کدام",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 88
+    }#    {
+      "HEADWORD" : "ἡμέρα ἡμέρας, ἡ",
+      "DEFINITION" : "روز",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 89
+    }#    {
+      "HEADWORD" : "φύω, φύσω, ἔφυσα",
+      "DEFINITION" : "پدید آوردن، ایجاد کردن؛ در ماضی آئوریست (ἔφυν): رشد کردن؛ در ماضی نقلی (πέφυκα): چیزی را در طبیعت خود داشتن، بنابر سرشت خویش عمل کردن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 90
+    }#    {
+      "HEADWORD" : "ἅπας ἅπασα ἅπαν",
+      "DEFINITION" : "همه، تمام، کل",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 91
+    }#    {
+      "HEADWORD" : "ὅμοιος ὁμοία ὅμοιον",
+      "DEFINITION" : "شبیه، مانند، بسان (+برایی)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 92
+    }#    {
+      "HEADWORD" : "νῦν, νυνί",
+      "DEFINITION" : "اکنون",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 93
+    }#    {
+      "HEADWORD" : "γῆ γῆς, ἡ",
+      "DEFINITION" : "زمین",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 94
+    }#    {
+      "HEADWORD" : "δύναμις δυνάμεως, ἡ",
+      "DEFINITION" : "نیرو، توان، قدرت",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به ι)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 95
+    }#    {
+      "HEADWORD" : "καλός –ή –όν",
+      "DEFINITION" : "زیبا، فاخر",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 96
+    }#    {
+      "HEADWORD" : "κύριος κυρίου, ὁ",
+      "DEFINITION" : "سرور، ارباب",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 97
+    }#    {
+      "HEADWORD" : "μᾶλλον",
+      "DEFINITION" : "بیش، بیشتر، بیش از،",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 98
+    }#    {
+      "HEADWORD" : "ὅδε ἥδε τόδε",
+      "DEFINITION" : "این",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 99
+    }#    {
+      "HEADWORD" : "ὅλος ὅλη ὅλον",
+      "DEFINITION" : "همه، کل، تمام، کامل",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 100
+    }#    {
+      "HEADWORD" : "μέρος μέρους, τό",
+      "DEFINITION" : "قسمت، بخش",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 101
+    }#    {
+      "HEADWORD" : "ἄρα",
+      "DEFINITION" : "در نتیجه، بنابراین",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 102
+    }#    {
+      "HEADWORD" : "ἐμός ἐμή ἐμόν",
+      "DEFINITION" : "مال من، ِ من ",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 103
+    }#    {
+      "HEADWORD" : "χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην",
+      "DEFINITION" : "استفاده کردن، از سر گذراندن، متحمل شدن، رفتار کردن، تا کردن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 104
+    }#    {
+      "HEADWORD" : "δύο",
+      "DEFINITION" : "دو",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 105
+    }#    {
+      "HEADWORD" : "χρόνος χρόνου, ὁ",
+      "DEFINITION" : "زمان",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 106
+    }#    {
+      "HEADWORD" : "ἴσος ἴση ἴσον",
+      "DEFINITION" : "مانند، برابر (+برایی)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 107
+    }#    {
+      "HEADWORD" : "ὅταν (ὅτε-ἄν)",
+      "DEFINITION" : "هرگاه که، هنگامی که (+التزامی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 108
+    }#    {
+      "HEADWORD" : "μόνον",
+      "DEFINITION" : "تنها، فقط",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 109
+    }#    {
+      "HEADWORD" : "οἶδα, infin. εἰδέναι, imper. ἴσθι, plupf. used as impf. ᾔδειν",
+      "DEFINITION" : "دانستن، بلد بودن (+اسم مصدر)",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 110
+    }#    {
+      "HEADWORD" : "βασιλεύς βασιλέως, ὁ",
+      "DEFINITION" : "شاه؛ بدون حرف تعریف: شاه پارس",
+      "PART OF SPEECH" : "اسم (مختوم به έως و εύς)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 111
+    }#    {
+      "HEADWORD" : "ὦ",
+      "DEFINITION" : "آه؛ ای (+ندایی)",
+      "PART OF SPEECH" : "interjection",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 112
+    }#    {
+      "HEADWORD" : "βούλομαι, βουλήσομαι, βεβούλημαι, ἐβουλήθην",
+      "DEFINITION" : "مایل بودن، راغب بودن، حاضر به انجام کاری بودن؛ ὁ βουλόμενος: آن‌کس که می‌خواهد/مایل است... (+اسم مصدر)",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 113
+    }#    {
+      "HEADWORD" : "φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην",
+      "DEFINITION" : "روشن کردن، آشکار کردن. مجهول: روشن شدن، آشکار شدن (+اسم مصدر یا مصدر وصفی)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 114
+    }#    {
+      "HEADWORD" : "γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην",
+      "DEFINITION" : "نوشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت لبی)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 115
+    }#    {
+      "HEADWORD" : "φέρω, οἴσω, 1 aor. ἤνεγκα, 2 aor. ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην",
+      "DEFINITION" : "آوردن، حمل کردن",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 116
+    }#    {
+      "HEADWORD" : "ψυχή ψυχῆς, ἡ",
+      "DEFINITION" : "روان، حیات، نفس، روح",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 117
+    }#    {
+      "HEADWORD" : "μηδείς μηδεμία μηδέν",
+      "DEFINITION" : "هیچ‌کس، هیچ‌چیز",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 118
+    }#    {
+      "HEADWORD" : "αἴτιος αἰτία αἴτιον",
+      "DEFINITION" : "مجرم، مقصر، مسئول",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 119
+    }#    {
+      "HEADWORD" : "πάλιν",
+      "DEFINITION" : "دوباره، باز، از نو؛ پیش، عقب",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 120
+    }#    {
+      "HEADWORD" : "μάλιστα",
+      "DEFINITION" : "بهترین، بیشترین؛ حتما، قطعا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 121
+    }#    {
+      "HEADWORD" : "ὑπάρχω, ὑπάρξω, ὑπῆρξα, ὑπῆργμαι, ὑπήρχθην",
+      "DEFINITION" : "بودن، وجود داشتن، آغاز کردن، پیش قدم شدن؛ τὰ ὑπάρχοντα: شرایط موجود",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 122
+    }#    {
+      "HEADWORD" : "ἄρχω, ἄρξω, ἦρξα, ἦργμαι, ἤρχθην",
+      "DEFINITION" : "آغاز کردن، حکم راندن، هدایت کردن، تسلط داشتن بر (+اضافی)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 123
+    }#    {
+      "HEADWORD" : "γυνή γυναικός, ἡ",
+      "DEFINITION" : "زن",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 124
+    }#    {
+      "HEADWORD" : "ποτε (enclitic)",
+      "DEFINITION" : "زمانی، روزی روزگاری",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 125
+    }#    {
+      "HEADWORD" : "ἵνα",
+      "DEFINITION" : "که؛ آنجا که، جایی که ؛ تا ",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 126
+    }#    {
+      "HEADWORD" : "ὄνομα ὀνόματος, τό",
+      "DEFINITION" : "نام، آوازه",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 127
+    }#    {
+      "HEADWORD" : "ὑπέρ",
+      "DEFINITION" : "به خاطر، برای (+اضافی) بالای، فراتر از (+رایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 128
+    }#    {
+      "HEADWORD" : "ἤδη",
+      "DEFINITION" : "اکنون، الان، همین حالا (برای گذشته و آینده‌ی نزدیک نیز به کار می‌رود)",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 129
+    }#    {
+      "HEADWORD" : "πατήρ πατρός, ὁ",
+      "DEFINITION" : "پدر",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 130
+    }#    {
+      "HEADWORD" : "ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, plup. ἠκηκόη or ἀκηκόη, ἠκούσθην",
+      "DEFINITION" : "شنیدن، گوش دادن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 131
+    }#    {
+      "HEADWORD" : "γένος γένους, τό",
+      "DEFINITION" : "تبار، چهر، نوع ، گونه",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 132
+    }#    {
+      "HEADWORD" : "τόπος τόπου, ὁ",
+      "DEFINITION" : "مکان، موضوع",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 133
+    }#    {
+      "HEADWORD" : "πράσσω, πράξω, ἔπραξα, πέπραχα, πέπραγμαι, ἐπράχθην",
+      "DEFINITION" : "کردن، انجام دادن، پدید آوردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 134
+    }#    {
+      "HEADWORD" : "πρῶτος πρώτη πρῶτον",
+      "DEFINITION" : "نخست",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 135
+    }#    {
+      "HEADWORD" : "εὑρίσκω, εὑρήσω, 2 aor. ηὗρον or εὗρον, ηὕρηκα or εὕρηκα, εὕρημαι, εὑρέθην",
+      "DEFINITION" : "یافتن، کشف کردن، اختراع کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 136
+    }#    {
+      "HEADWORD" : "παῖς παιδός, ὁ/ἡ",
+      "DEFINITION" : "فرزند، غلام، کنیز",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 137
+    }#    {
+      "HEADWORD" : "ἔρχομαι, fut. εἶμι or ἐλεύσομαι, 2 aor. ἦλθον, ἐλήλυθα",
+      "DEFINITION" : "آمدن، رفتن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 138
+    }#    {
+      "HEADWORD" : "υἱός υἱοῦ, ὁ",
+      "DEFINITION" : "پسر",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 139
+    }#    {
+      "HEADWORD" : "ὕδωρ ὕδατος, τό",
+      "DEFINITION" : "آب",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 140
+    }#    {
+      "HEADWORD" : "ἴδιος ἰδία ἴδιον",
+      "DEFINITION" : "مخصوص، ویژه متمایز",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 141
+    }#    {
+      "HEADWORD" : "σός σή σόν",
+      "DEFINITION" : "مال تو، ِ تو (مفرد ὑμέτερος)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 142
+    }#    {
+      "HEADWORD" : "γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην",
+      "DEFINITION" : "فرا گرفتن، فهمیدن، تمییز دادن (+رایی و اسم مصدر)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 143
+    }#    {
+      "HEADWORD" : "τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα. τέτυγμαι, ἐτύχθην",
+      "DEFINITION" : "رخ دادن، پیش آمدن؛ نائل شدن، موفق شدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 144
+    }#    {
+      "HEADWORD" : "ἵστημι στήσω will set, ἔστησα set, caused to stand, 2 aor. ἔστην stood, ἕστηκα stand, plup. εἱστήκη stood, ἐστάθην stood",
+      "DEFINITION" : "ایستاندن، قرار دادن، برپا کردن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 145
+    }#    {
+      "HEADWORD" : "ἅμα",
+      "DEFINITION" : "هم‌زمان، همراه با (+برایی)",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 146
+    }#    {
+      "HEADWORD" : "ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην",
+      "DEFINITION" : "رهبری کردن، راه نمودن، آوردن، گذراندن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 147
+    }#    {
+      "HEADWORD" : "τρόπος τρόπου, ὁ",
+      "DEFINITION" : "شیوه، طریق، طرز، خوی",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 148
+    }#    {
+      "HEADWORD" : "μήτε...μήτε",
+      "DEFINITION" : "و نه؛ نه... و نه...؛ نه این و نه آن",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 149
+    }#    {
+      "HEADWORD" : "μέσος μέση μέσον",
+      "DEFINITION" : "میان، میانه، معتدل؛ τὸ μέσον: وسط",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 150
+    }#    {
+      "HEADWORD" : "ἀλλήλων –οις",
+      "DEFINITION" : "(با) یکدیگر، متقابلا",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 151
+    }#    {
+      "HEADWORD" : "ἀεί",
+      "DEFINITION" : "همواره، همیشه",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 152
+    }#    {
+      "HEADWORD" : "φίλος φίλη φίλον",
+      "DEFINITION" : " عزیز، دوست، مهربان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 153
+    }#    {
+      "HEADWORD" : ", συμβήσομαι, 2 aor. συνέβην, συμβέβηκα",
+      "DEFINITION" : "توافق کردن، مطابقت کردن، روی دادن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 154
+    }#    {
+      "HEADWORD" : "ἔργον ἔργου, τό",
+      "DEFINITION" : "کار، عمل، کردار",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 155
+    }#    {
+      "HEADWORD" : "πλέω, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι, ἐπλεύσθην",
+      "DEFINITION" : "کشتی رانی کردن، دریا نوردیدن، ",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 156
+    }#    {
+      "HEADWORD" : "τότε",
+      "DEFINITION" : "آنگاه، آن زمان، سپس؛οἱ τότε: مردم آن روزگار، متضاد οἱ νῦν: مردم روزگار ما",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 157
+    }#    {
+      "HEADWORD" : "μήν",
+      "DEFINITION" : "(ادات تاکید)",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 158
+    }#    {
+      "HEADWORD" : "χρή, impf. χρῆν or ἐχρῆν, infin. χρῆναι",
+      "DEFINITION" : "لازم است، بایستی... (+اسم مصدر و رایی)",
+      "PART OF SPEECH" : "فعل (غیرشخصی)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 159
+    }#    {
+      "HEADWORD" : "δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην",
+      "DEFINITION" : "نشان دادن، نمایاندن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 160
+    }#    {
+      "HEADWORD" : "ζῷον ζῴου, τό",
+      "DEFINITION" : "جاندار، حیوان",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "گیاهان و جانداران",
+      "FREQUENCY RANK" : 161
+    }#    {
+      "HEADWORD" : "πρᾶγμα πράγματος, τό",
+      "DEFINITION" : "اشیا، امور، شرایط",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 162
+    }#    {
+      "HEADWORD" : "ἐναντίος ἐναντία ἐναντίον",
+      "DEFINITION" : "متضاد، مقابل",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 163
+    }#    {
+      "HEADWORD" : "τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι (but usu. κεῖμαι instead), ἐτέθην",
+      "DEFINITION" : "گذاشتن، قرار دادن، برقرار کردن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 164
+    }#    {
+      "HEADWORD" : "εἶδον, 2 aor. of ὁράω, act. infin. ἰδεῖν, mid.infin. ἰδέσθαι",
+      "DEFINITION" : "دیدم",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 165
+    }#    {
+      "HEADWORD" : "χείρ χειρός, ἡ",
+      "DEFINITION" : "دست",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 166
+    }#    {
+      "HEADWORD" : "μηδέ",
+      "DEFINITION" : "و نه، نه حتی",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 167
+    }#    {
+      "HEADWORD" : "ὀλίγος ὀλίγη ὀλίγον",
+      "DEFINITION" : "کم، کوچک، اندک",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 168
+    }#    {
+      "HEADWORD" : "νόμος νόμου, ὁ",
+      "DEFINITION" : "رسم، سنت، قاعده",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 169
+    }#    {
+      "HEADWORD" : "κοινός –ή –όν",
+      "DEFINITION" : "متداول، مرسوم، مشترک",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 170
+    }#    {
+      "HEADWORD" : "οἴομαι or οἶμαι, οἰήσομαι, impf. ᾤμην, aor. ᾠήθην",
+      "DEFINITION" : "پنداشتن، انگاشتن، اندیشیدن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 171
+    }#    {
+      "HEADWORD" : "κινέω, κινήσω, ἐκίνησα, κεκίνηκα, κεκίνημαι, ἐκινήθην",
+      "DEFINITION" : "جنباندن، حرکت دادن، به هم زدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 172
+    }#    {
+      "HEADWORD" : "πάσχω, πείσομαι, ἔπαθον, πέπονθα",
+      "DEFINITION" : "از سر گذراندن، تحمل کردن، تجربه کردن، آزار دیدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 173
+    }#    {
+      "HEADWORD" : "πῶς",
+      "DEFINITION" : "چگونه؟",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 174
+    }#    {
+      "HEADWORD" : "ὅσπερ ἥπερ ὅπερ",
+      "DEFINITION" : "همان کس/چیز که",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 175
+    }#    {
+      "HEADWORD" : "τοσοῦτος –αύτη –οῦτο(ν)",
+      "DEFINITION" : "آن‌قدر، چنان (نمونه از حافظ: سلیمان با چنان حشمت نظرها بود با مورش )",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 176
+    }#    {
+      "HEADWORD" : "σύν",
+      "DEFINITION" : "با (+برایی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 177
+    }#    {
+      "HEADWORD" : "εἶτα",
+      "DEFINITION" : "سپس",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 178
+    }#    {
+      "HEADWORD" : "ἀληθής –ές",
+      "DEFINITION" : "صادق، راستین",
+      "PART OF SPEECH" : "صفت (مختوم به ης و ες)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 179
+    }#    {
+      "HEADWORD" : "δίκαιος δικαία δίκαιον",
+      "DEFINITION" : "مساوی، برابر، منصفانه",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 180
+    }#    {
+      "HEADWORD" : "μέλλω, μελλήσω, ἐμέλλησα",
+      "DEFINITION" : "بر آن شدن، قصد کردن (+اسم مصدر)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 181
+    }#    {
+      "HEADWORD" : "ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα",
+      "DEFINITION" : "خواستن، آرزو داشتن (+اسم مصدر)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 182
+    }#    {
+      "HEADWORD" : "λοιπός –ή –όν",
+      "DEFINITION" : "باقی، مانده",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 183
+    }#    {
+      "HEADWORD" : "ἀνάγκη ἀνάγκης, ἡ",
+      "DEFINITION" : "الزام، اجبار",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 184
+    }#    {
+      "HEADWORD" : "ὅτε",
+      "DEFINITION" : "وقتی، زمانی که",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 185
+    }#    {
+      "HEADWORD" : "δεύτερος –α –ον",
+      "DEFINITION" : "دوم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 186
+    }#    {
+      "HEADWORD" : "πόλεμος πολέμου ὁ",
+      "DEFINITION" : "جنگ ",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 187
+    }#    {
+      "HEADWORD" : "χώρα χώρας, ἡ",
+      "DEFINITION" : "سرزمین، دیار، کشور",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 188
+    }#    {
+      "HEADWORD" : "ζάω, ζήσω, ἔζησα, ἔζηκα",
+      "DEFINITION" : "زندگی کردن، زنده بودن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 189
+    }#    {
+      "HEADWORD" : "πλῆθος πλήθους, τό",
+      "DEFINITION" : "کثرت، بزرگی، جمعیت",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 190
+    }#    {
+      "HEADWORD" : "ἥλιος ἡλίου, ὁ",
+      "DEFINITION" : "خورشید",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 191
+    }#    {
+      "HEADWORD" : "αἰτία αἰτίας, ἡ",
+      "DEFINITION" : "تقصیر، سبب، اتهام",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 192
+    }#    {
+      "HEADWORD" : "πείθω, πείσω, ἔπεισα, πέποιθα, πέπεισμαι, ἐπείσθην",
+      "DEFINITION" : "تشویق کردن، غلبه کردن. مجهول و میانی: مغلوب شدن، پیروی کردن، باور داشتن (+برایی)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 193
+    }#    {
+      "HEADWORD" : "πάρειμι",
+      "DEFINITION" : "آماده بودن، حضور داشتن، حاضر بودن τὰ παρόντα: در حال حاضر",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 194
+    }#    {
+      "HEADWORD" : "πλεῖστος πλείστη πλεῖστον",
+      "DEFINITION" : "بیشترین، زیادترین، بزرگترین (صفت عالی πολύς)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 195
+    }#    {
+      "HEADWORD" : "εἶδος εἴδους, τό",
+      "DEFINITION" : "صورت، شکل، دسته، گونه",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 196
+    }#    {
+      "HEADWORD" : "ὅπως",
+      "DEFINITION" : "چنان، تا اینکه، به نحوی که (+التزامی یا تمنایی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 197
+    }#    {
+      "HEADWORD" : "τρεῖς τρία",
+      "DEFINITION" : "سه",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 198
+    }#    {
+      "HEADWORD" : "βίος βίου, ὁ",
+      "DEFINITION" : "زندگی",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 199
+    }#    {
+      "HEADWORD" : "νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην",
+      "DEFINITION" : "اندیشیدن، باور داشتن، مرسوم بودن، عادت داشتن (+ اسم مصدر)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 200
+    }#    {
+      "HEADWORD" : "κύκλος κύκλου, ὁ",
+      "DEFINITION" : "دایره، قرص، گردی، حلقه، چرخش",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 201
+    }#    {
+      "HEADWORD" : "πάθος πάθους, τό",
+      "DEFINITION" : "حادثه، مصیبت، شور، اشتیاق، وضعیت",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 202
+    }#    {
+      "HEADWORD" : "πρό",
+      "DEFINITION" : "پیش، قبل، مقابل (+اضافی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 203
+    }#    {
+      "HEADWORD" : "μέντοι",
+      "DEFINITION" : "هر چند، با این حال",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 204
+    }#    {
+      "HEADWORD" : "ὀνομάζω, ὀνομάσω, ὠνόμασα, ὠνόμακα, ὠνόμασμαι, ὠνομάσθην",
+      "DEFINITION" : "نامیدن، نام بردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 204
+    }#    {
+      "HEADWORD" : "ἀρετή ἀρετῆς, ἡ",
+      "DEFINITION" : "تعالی، برتری، دلاوری، رادی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 206
+    }#    {
+      "HEADWORD" : "ὑμέτερος ὑμετέρα ὑμέτερον",
+      "DEFINITION" : "مال شما، ِ شما (جمع σός)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 206
+    }#    {
+      "HEADWORD" : "ἔτος ἔτους, τό",
+      "DEFINITION" : "سال",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 208
+    }#    {
+      "HEADWORD" : "ἀντί",
+      "DEFINITION" : "ضد، غیر، در مقابل",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 209
+    }#    {
+      "HEADWORD" : "ναῦς νεώς, ἡ",
+      "DEFINITION" : "ناو، کشتی",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 210
+    }#    {
+      "HEADWORD" : "τρίτος –η –ον",
+      "DEFINITION" : "سوم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 211
+    }#    {
+      "HEADWORD" : "πνεῦμα πνεύματος, τό",
+      "DEFINITION" : "باد، نفس، روح",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 212
+    }#    {
+      "HEADWORD" : "ὀρθός –ή –όν",
+      "DEFINITION" : "راست، درست، صاف",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 213
+    }#    {
+      "HEADWORD" : "θάλασσα θαλάσσης, ἡ",
+      "DEFINITION" : "دریا",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 214
+    }#    {
+      "HEADWORD" : "διαφέρω, διοίσω, 1 aor. διήνεγκα, 2 aor. διήνεγκον, διενήνοχα, διενήνεγμαι",
+      "DEFINITION" : "تفاوت داشتن، ناهمگون بودن، گستردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 215
+    }#    {
+      "HEADWORD" : "μέχρι (+gen.)",
+      "DEFINITION" : "تا، تا آنجا که، تا زمانی که (+اضافی)",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 216
+    }#    {
+      "HEADWORD" : "δόξα δόξης, ἡ",
+      "DEFINITION" : "پندار، گمان، خوشنامی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 217
+    }#    {
+      "HEADWORD" : "κεφαλή –ῆς, ἡ",
+      "DEFINITION" : "سر",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 218
+    }#    {
+      "HEADWORD" : "πῦρ πυρός, τό",
+      "DEFINITION" : "آتش",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 219
+    }#    {
+      "HEADWORD" : "ἐλάσσων ἔλασσον",
+      "DEFINITION" : "کوچک‌تر، کمتر، پست‌تر (صفت تفضیلی μικρός)",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 220
+    }#    {
+      "HEADWORD" : "πούς ποδός, ὁ",
+      "DEFINITION" : "پا",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 221
+    }#    {
+      "HEADWORD" : "ἱερός –ά –όν",
+      "DEFINITION" : "مقدس، فرازمینی",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 222
+    }#    {
+      "HEADWORD" : "εὐθύς εὐθεῖα εὐθύ",
+      "DEFINITION" : "مستقیما، یک راست، قید: فورا",
+      "PART OF SPEECH" : "صفت (مختوم به ύς، ύ و εῖα)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 223
+    }#    {
+      "HEADWORD" : "εἶμι, infin. ἰέναι, ptc. ἰών, ἰοῦσα, ἰόν",
+      "DEFINITION" : "خواهم رفت (آینده‌ی فعل ἔρχομαι)",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 224
+    }#    {
+      "HEADWORD" : "ταχύς ταχεῖα ταχύ",
+      "DEFINITION" : "سریع، تند",
+      "PART OF SPEECH" : "صفت (مختوم به ύς، ύ و εῖα)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 225
+    }#    {
+      "HEADWORD" : "ποταμός –οῦ, ὁ",
+      "DEFINITION" : "رود",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 226
+    }#    {
+      "HEADWORD" : "οὐσία οὐσίας, ἡ",
+      "DEFINITION" : "ذات، جوهر، اساس",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 227
+    }#    {
+      "HEADWORD" : "ἀριθμός –οῦ, ὁ",
+      "DEFINITION" : "شمار",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 228
+    }#    {
+      "HEADWORD" : "ὕστερος ὑστέρα ὕστερον",
+      "DEFINITION" : "آخری، پسین، بعد از (+اضافی)",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 229
+    }#    {
+      "HEADWORD" : "φυλάσσω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην",
+      "DEFINITION" : "نگهبانی کردن ، دفاع کردن. وجه میانی: از کسی در مقابل چیزی دفاع کردن (+رایی)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 230
+    }#    {
+      "HEADWORD" : "καιρός καιροῦ, ὁ",
+      "DEFINITION" : "فرصت",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 231
+    }#    {
+      "HEADWORD" : "οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾠκήθην",
+      "DEFINITION" : "ساکن شدن، مستقر شدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 232
+    }#    {
+      "HEADWORD" : "ἀμφότερος ἀμφοτέρα ἀμφότερον",
+      "DEFINITION" : "هر دو",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 233
+    }#    {
+      "HEADWORD" : "σημεῖον σημείου, τό",
+      "DEFINITION" : "نشانه، علامت",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 234
+    }#    {
+      "HEADWORD" : "παρέχω, παρέξω, παρέσχον, παρέσχηκα, impf. παρεῖχον",
+      "DEFINITION" : "تامین کردن، تدارک دیدن، اعطا کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 235
+    }#    {
+      "HEADWORD" : "ἑκάτερος ἑκατέρα ἑκάτερον",
+      "DEFINITION" : "یکی از آن/ این دو ( متضاد ἀμφότερος)",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 236
+    }#    {
+      "HEADWORD" : "δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, ἐδηλώθην",
+      "DEFINITION" : "آشکار ساختن، نمایان کردن، شرح دادن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 237
+    }#    {
+      "HEADWORD" : "οἰκεῖος οἰκεία οἰκεῖον",
+      "DEFINITION" : "خانگی، خودی، سازگار",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 238
+    }#    {
+      "HEADWORD" : "κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην",
+      "DEFINITION" : "امر کردن، فرمان دادن (+رایی و اسم مصدر)",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 239
+    }#    {
+      "HEADWORD" : "τέλος τέλους, τό",
+      "DEFINITION" : "پایان، برآمد، دستاورد",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 240
+    }#    {
+      "HEADWORD" : "ἡγέομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι",
+      "DEFINITION" : "رهبری کردن، صلاح دانستن، باور داشتن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 241
+    }#    {
+      "HEADWORD" : "ἄξιος ἀξία ἄξιον",
+      "DEFINITION" : "شایسته، سزاوار",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 242
+    }#    {
+      "HEADWORD" : "ἦ",
+      "DEFINITION" : "به راستی، واقعا (قید تاکید)",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 243
+    }#    {
+      "HEADWORD" : "δῆλος δήλη δῆλον",
+      "DEFINITION" : "آشکار، مشهود",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 244
+    }#    {
+      "HEADWORD" : "τοίνυν (τοί-νυν)",
+      "DEFINITION" : "بنابراین، در نتیجه؛ علاوه بر این",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 245
+    }#    {
+      "HEADWORD" : "πολέμιος πολεμία πολέμιον",
+      "DEFINITION" : "دشمن",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 246
+    }#    {
+      "HEADWORD" : "ἔρομαι, ἐρήσομαι, 2 aor. ἠρόμην",
+      "DEFINITION" : "سراغ گرفتن، جویا شدن (+رایی)",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 247
+    }#    {
+      "HEADWORD" : "ἀδελφός –οῦ, ὁ",
+      "DEFINITION" : "برادر",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 248
+    }#    {
+      "HEADWORD" : "μέγεθος μεγέθους, τό",
+      "DEFINITION" : "بزرگی، عظمت، اندازه",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 249
+    }#    {
+      "HEADWORD" : "εἴτε…εἴτε",
+      "DEFINITION" : "یا... یا...، یا این و یا آن",
+      "PART OF SPEECH" : "حرف ربط هم‌پایه‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 250
+    }#    {
+      "HEADWORD" : "κεῖμαι, κείσομαι",
+      "DEFINITION" : "آرمیدن، قرار گرفتن، جای گرفتن، گماشته شدن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 251
+    }#    {
+      "HEADWORD" : "πολλάκις",
+      "DEFINITION" : "اغلب",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 252
+    }#    {
+      "HEADWORD" : "πίνω, πίομαι, 2 aor. ἔπιον, πέπωκα, -πέπομαι, -επόθην",
+      "DEFINITION" : "نوشیدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 253
+    }#    {
+      "HEADWORD" : "χάρις χάριτος, ἡ",
+      "DEFINITION" : "شکوه، جلال، لطف، سرافرازی",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 254
+    }#    {
+      "HEADWORD" : "ἔπειτα",
+      "DEFINITION" : "پس، سپس",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 255
+    }#    {
+      "HEADWORD" : "ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα",
+      "DEFINITION" : "جستجو کردن، جویا شدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 256
+    }#    {
+      "HEADWORD" : "σχῆμα σχήματος, τό",
+      "DEFINITION" : "صورت، شکل، ظاهر، نقش",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 257
+    }#    {
+      "HEADWORD" : "τροφή τροφῆς, ἡ",
+      "DEFINITION" : "خوراک، پرورش",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 258
+    }#    {
+      "HEADWORD" : "μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα",
+      "DEFINITION" : "آموختن، یاد گرفتن، فهمیدن، عادت داشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 259
+    }#    {
+      "HEADWORD" : "ἐνταῦθα",
+      "DEFINITION" : "اینجا، در این هنگام",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 260
+    }#    {
+      "HEADWORD" : "φεύγω, φεύξομαι, ἔφυγον, πέφευγα",
+      "DEFINITION" : "گریختن، رانده‌ شدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 261
+    }#    {
+      "HEADWORD" : "ἵππος ἵππου, ὁ",
+      "DEFINITION" : "اسب",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "گیاهان و جانداران",
+      "FREQUENCY RANK" : 262
+    }#    {
+      "HEADWORD" : "κόσμος κόσμου, ὁ",
+      "DEFINITION" : "نظم، آرایش، آذین، کیهان، گیتی",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 263
+    }#    {
+      "HEADWORD" : "αἷμα αἵματος, τό",
+      "DEFINITION" : "خون",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 264
+    }#    {
+      "HEADWORD" : "αἱρέω, αἱρήσω, 2 aor. εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην",
+      "DEFINITION" : "گرفتن، به چنگ آوردن؛ میانی: گزیدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 265
+    }#    {
+      "HEADWORD" : "προστίθημι, προσθήσω, προσέθηκα, προστέθηκα, προστέθειμαι (but commonly προσκεῖμαι instead), προσετέθην",
+      "DEFINITION" : "افزودن، واگذاردن . میانی: پیوستن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 266
+    }#    {
+      "HEADWORD" : "ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην",
+      "DEFINITION" : "لایق دانستن، طلب کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 267
+    }#    {
+      "HEADWORD" : "ἕως",
+      "DEFINITION" : "تا",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 268
+    }#    {
+      "HEADWORD" : "νέος νέα νέον",
+      "DEFINITION" : "نو، جوان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 269
+    }#    {
+      "HEADWORD" : "ἔοικα, ptc. εἰκώς",
+      "DEFINITION" : "به نظر رسیدن، شبیه بودن (+برایی)، درخور بودن",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 270
+    }#    {
+      "HEADWORD" : "κἄν (καὶ-ἄν)",
+      "DEFINITION" : "مگر",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 271
+    }#    {
+      "HEADWORD" : "καθίστημι, καταστήσω, κατέστησα, κατέστην, καθέστηκα, plupf. καθειστήκη, κατεστάθην",
+      "DEFINITION" : "برپا کردن، برقرار کردن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 272
+    }#    {
+      "HEADWORD" : "τέχνη τέχνης, ἡ",
+      "DEFINITION" : "مهارت، حیله، نیرنگ، فن",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 273
+    }#    {
+      "HEADWORD" : "χρῆμα χρήματος, τό",
+      "DEFINITION" : "چیز، امر، پول، مال و منال",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 274
+    }#    {
+      "HEADWORD" : "σῴζω, σώσω, ἔσωσα, σέσωκα, ἐσώθην",
+      "DEFINITION" : "نجات دادن، حفظ کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 275
+    }#    {
+      "HEADWORD" : "πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην",
+      "DEFINITION" : "فرستادن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت لبی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 276
+    }#    {
+      "HEADWORD" : "φωνή φωνῆς, ἡ",
+      "DEFINITION" : "صدا، آوا",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 277
+    }#    {
+      "HEADWORD" : "ἕνεκα",
+      "DEFINITION" : "به خاطر",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 278
+    }#    {
+      "HEADWORD" : "ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, 2 aor. mid. ἀπωλόμην, pf. ἀπολώλεκα (“I have utterly destroyed”) or ἀπόλωλα (“I am undone”)",
+      "DEFINITION" : "کشتن ، نابود کردن (میانی) تلف شدن، مردن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 279
+    }#    {
+      "HEADWORD" : "θάνατος θανάτου, ὁ",
+      "DEFINITION" : "مرگ",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 280
+    }#    {
+      "HEADWORD" : "νύξ νυκτός, ἡ",
+      "DEFINITION" : "شب",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 281
+    }#    {
+      "HEADWORD" : "ὁδός ὁδοῦ, ἡ",
+      "DEFINITION" : "راه، روش",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 282
+    }#    {
+      "HEADWORD" : "ἔθνος ἔθνους, τό",
+      "DEFINITION" : "قوم",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 283
+    }#    {
+      "HEADWORD" : "ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην",
+      "DEFINITION" : "برگرداندن، تحویل دادن، اجازه دادن؛ میانی: فروختن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 284
+    }#    {
+      "HEADWORD" : "νοῦς (νόος), νοῦ (νόου), ὁ",
+      "DEFINITION" : "ذهن، ادراک",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 285
+    }#    {
+      "HEADWORD" : "μένω, μενῶ, ἔμεινα, μεμένηκα",
+      "DEFINITION" : "ماندن، دوام آوردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 286
+    }#    {
+      "HEADWORD" : "ἀποθνῄσκω, ἀποθανοῦμαι, 2 aor. ἀπέθανον, ἀποτέθνηκα",
+      "DEFINITION" : "مردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 287
+    }#    {
+      "HEADWORD" : "πάνυ",
+      "DEFINITION" : "یکسره، کاملا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 288
+    }#    {
+      "HEADWORD" : "εὖ",
+      "DEFINITION" : "به نیکی، به خوبی، به درستی",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 289
+    }#    {
+      "HEADWORD" : "κρίνω, κρινῶ, ἔκρινα, κέκρικα, κέκριμαι, ἐκρίθην",
+      "DEFINITION" : "تمییز دادن،  تعیین کردن، تصمیم گرفتن، حکم دادن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 290
+    }#    {
+      "HEADWORD" : "ἀναιρέω, ἀναιρήσω, ἀνεῖλον, ἀνῄρηκα, ἀνῄρημαι, ἀνῃρέθην",
+      "DEFINITION" : "برداشتن، بالا بردن، نابود کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 291
+    }#    {
+      "HEADWORD" : "μακρός –ά –όν",
+      "DEFINITION" : "بلند، طولانی، بزرگ",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 292
+    }#    {
+      "HEADWORD" : "ἥκω, ἥξω, pf. ἧκα",
+      "DEFINITION" : "حضور داشتن، رسیدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 293
+    }#    {
+      "HEADWORD" : "ἡδονή –ῆς, ἡ",
+      "DEFINITION" : "لذت، خوشی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 294
+    }#    {
+      "HEADWORD" : "μήτηρ μητρός, ἡ",
+      "DEFINITION" : "مادر",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 295
+    }#    {
+      "HEADWORD" : "δεινός –ή –όν",
+      "DEFINITION" : "شگفت، مهیب، زیرک، هوشمند",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 296
+    }#    {
+      "HEADWORD" : "διαφορά –ᾶς, ἡ",
+      "DEFINITION" : "تفاوت، اختلاف",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 297
+    }#    {
+      "HEADWORD" : "κρατέω, κρατήσω, ἐκράτησα, κεκράτηκα, κεκράτημαι, ἐκρατήθην",
+      "DEFINITION" : "فرمان‌روایی کردن، قدرت به دست گرفتن، برتر بودن (+اضافی)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 298
+    }#    {
+      "HEADWORD" : "δῆμος δήμου, ὁ",
+      "DEFINITION" : "عوام، مردم",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 299
+    }#    {
+      "HEADWORD" : "οὐρανός –οῦ, ὁ",
+      "DEFINITION" : "عرش، آسمان",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 300
+    }#    {
+      "HEADWORD" : "ἕπομαι ἕψομαι, 2 aor. ἑσπόμην",
+      "DEFINITION" : "پیروی کردن، دنبال کردن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 301
+    }#    {
+      "HEADWORD" : "ἥσσων ἧσσον",
+      "DEFINITION" : "کمتر، ضعیف‌تر، پست‌تر",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 302
+    }#    {
+      "HEADWORD" : "ὄρος ὄρους, τό",
+      "DEFINITION" : "کوه، تپه",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 303
+    }#    {
+      "HEADWORD" : "πλήν",
+      "DEFINITION" : "به جز، غیر از",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 304
+    }#    {
+      "HEADWORD" : "τέτταρες τέτταρα",
+      "DEFINITION" : "چهار",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 305
+    }#    {
+      "HEADWORD" : "δυνατός –ή –όν",
+      "DEFINITION" : "توانا، نیرومند",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 306
+    }#    {
+      "HEADWORD" : "οἶκος οἴκου, ὁ",
+      "DEFINITION" : "مسکن، خانه، سرا",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 307
+    }#    {
+      "HEADWORD" : "ἄριστος ἀρίστη ἄριστον",
+      "DEFINITION" : "بهترین، نیکوترین",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 308
+    }#    {
+      "HEADWORD" : "ῥᾴδιος ῥᾳδία ῥᾴδιον",
+      "DEFINITION" : "آسان، سهل",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 309
+    }#    {
+      "HEADWORD" : "ἀφαιρέω, ἀφαιρήσω, ἀφεῖλον, ἀφῄρηκα, ἀφῄρημαι, ἀφῃρέθην",
+      "DEFINITION" : "جدا کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 310
+    }#    {
+      "HEADWORD" : "τύχη τύχης, ἡ",
+      "DEFINITION" : " بخت، اقبال، طالع",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 311
+    }#    {
+      "HEADWORD" : "φανερός –ά –όν",
+      "DEFINITION" : "واضح، نمایان، مشهود",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 312
+    }#    {
+      "HEADWORD" : "πρόσωπον προσώπου, τό",
+      "DEFINITION" : "رخ، سیما، نقاب، شخص",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 313
+    }#    {
+      "HEADWORD" : "πιστεύω, πιστεύσω, ἐπίστευσα, πεπίστευκα, πεπίστευμαι, ἐπιστεύθην",
+      "DEFINITION" : "اعتماد کردن، باور داشتن (+برایی)",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 314
+    }#    {
+      "HEADWORD" : "διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην",
+      "DEFINITION" : "آموختن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 315
+    }#    {
+      "HEADWORD" : "ἄνω",
+      "DEFINITION" : "بالا، بالادست، رو به بالا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 316
+    }#    {
+      "HEADWORD" : "τάσσω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην",
+      "DEFINITION" : "در صف آوردن، سازمان دادن، آراستن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 317
+    }#    {
+      "HEADWORD" : "ὀφθαλμός –οῦ, ὁ",
+      "DEFINITION" : "چشم",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 318
+    }#    {
+      "HEADWORD" : "δέχομαι, δέξομαι, ἐδεξάμην, δέδεγμαι, -εδέχθην",
+      "DEFINITION" : "گرفتن، پذیرفتن، دریافت کردن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 319
+    }#    {
+      "HEADWORD" : "ἀφικνέομαι, ἀφίξομαι, 2 aor. ἀφικόμην, ἀφῖγμαι",
+      "DEFINITION" : "آمدن، رسیدن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 320
+    }#    {
+      "HEADWORD" : "ἱκανός –ή –όν",
+      "DEFINITION" : "بسنده، کافی، قابل",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 321
+    }#    {
+      "HEADWORD" : "ἐργάζομαι, ἐργάσομαι, εἰργασάμην, εἴργασμαι",
+      "DEFINITION" : "کار کردن، زحمت کشیدن، کوشیدن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 322
+    }#    {
+      "HEADWORD" : "μάχη μάχης, ἡ",
+      "DEFINITION" : "نبرد، رزم",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 323
+    }#    {
+      "HEADWORD" : "τρέφω, θρέψω, ἔθρεψα, τέθραμμαι, ἐτράφην",
+      "DEFINITION" : "پروراندن، رشد دادن، نگهداری کردن، تربیت کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت لبی)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 324
+    }#    {
+      "HEADWORD" : "ἀδύνατος –ον",
+      "DEFINITION" : "ناتوان، ناممکن",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 325
+    }#    {
+      "HEADWORD" : "ἀκριβής –ές",
+      "DEFINITION" : "دقیق",
+      "PART OF SPEECH" : "صفت (مختوم به ης و ες)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 326
+    }#    {
+      "HEADWORD" : "που",
+      "DEFINITION" : "کجا؟؛ آنجا، جایی؛ شاید ",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 327
+    }#    {
+      "HEADWORD" : "ὅθεν",
+      "DEFINITION" : "آنجا که، از جایی که، از آنجا، از آن رو",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 328
+    }#    {
+      "HEADWORD" : "στόμα στόματος, τό",
+      "DEFINITION" : "دهان، دهانه، رو",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 329
+    }#    {
+      "HEADWORD" : "χωρίς",
+      "DEFINITION" : "جداگانه، بدون، مستقل از",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 330
+    }#    {
+      "HEADWORD" : "κρείσσων κρεῖσσον",
+      "DEFINITION" : "نیرومندتر، قوی‌تر، برتر، بهتر",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 331
+    }#    {
+      "HEADWORD" : "βραχύς βραχεῖα βραχύ",
+      "DEFINITION" : "کوتاه، کوچک",
+      "PART OF SPEECH" : "صفت (مختوم به ύς، ύ و εῖα)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 332
+    }#    {
+      "HEADWORD" : "ἰσχυρός –ά –όν",
+      "DEFINITION" : "نیرومند، قدرتمند",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 333
+    }#    {
+      "HEADWORD" : "ἀλήθεια ἀληθείας, ἡ",
+      "DEFINITION" : "حقیقت",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 334
+    }#    {
+      "HEADWORD" : "δίκη δίκης, ἡ",
+      "DEFINITION" : "عدل، داد، داوری، محاکمه، مجازات",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 335
+    }#    {
+      "HEADWORD" : "χωρίον χωρίου, τό",
+      "DEFINITION" : "محل، جا، مکان",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 336
+    }#    {
+      "HEADWORD" : "ἡδύς ἡδεῖα ἡδύ",
+      "DEFINITION" : "شیرین، مطبوع، دلپذیر",
+      "PART OF SPEECH" : "صفت (مختوم به ύς، ύ و εῖα)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 337
+    }#    {
+      "HEADWORD" : "νόσος νόσου, ὁ",
+      "DEFINITION" : "بیماری، ناخوشی",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 338
+    }#    {
+      "HEADWORD" : "λίθος λίθου, ὁ",
+      "DEFINITION" : "سنگ",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 339
+    }#    {
+      "HEADWORD" : "παλαιός –ά –όν",
+      "DEFINITION" : "کهن، دیرینه",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 340
+    }#    {
+      "HEADWORD" : "ἀφίημι, ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην",
+      "DEFINITION" : "رها کردن، آزاد ساختن، دست برداشتن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 341
+    }#    {
+      "HEADWORD" : "ἄλλως",
+      "DEFINITION" : "وگرنه",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 342
+    }#    {
+      "HEADWORD" : "πρᾶξις πράξεως, ἡ",
+      "DEFINITION" : "معامله، داد و ستد، عمل، کنش",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به ι)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 343
+    }#    {
+      "HEADWORD" : "σαφής σαφές",
+      "DEFINITION" : "واضح، روشن، ساده",
+      "PART OF SPEECH" : "صفت (مختوم به ης و ες)",
+      "SEMANTIC GROUP" : "یافتن و نمایاندن",
+      "FREQUENCY RANK" : 344
+    }#    {
+      "HEADWORD" : "σοφός –ή –όν",
+      "DEFINITION" : "خردمند، هوشمند، کاردان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 345
+    }#    {
+      "HEADWORD" : "νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην",
+      "DEFINITION" : "پیروز شدن، مغلوب کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 346
+    }#    {
+      "HEADWORD" : "ὁμολογέω, ὁμολογήσω, ὡμολόγησα, ὡμολόγηκα, ὡμολόγημαι, ὡμολογήθην",
+      "DEFINITION" : "موافق بودن،  هم رای بودن (+برایی)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 347
+    }#    {
+      "HEADWORD" : "ναός (νεώς) ναοῦ (νεώ), ὁ",
+      "DEFINITION" : "معبد، پرستشگاه",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 348
+    }#    {
+      "HEADWORD" : "αὖ, αὖθις",
+      "DEFINITION" : "باز، دوباره",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 349
+    }#    {
+      "HEADWORD" : "πατρίς πατρίδος, ἡ",
+      "DEFINITION" : "میهن، وطن",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 350
+    }#    {
+      "HEADWORD" : "ὀξύς ὀξεῖα ὀξύ",
+      "DEFINITION" : "تند، تیز، زیر (برای صدا)",
+      "PART OF SPEECH" : "صفت (مختوم به ύς، ύ و εῖα)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 351
+    }#    {
+      "HEADWORD" : "καίτοι (καί-τοι)",
+      "DEFINITION" : "به راستی، با این حال",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 352
+    }#    {
+      "HEADWORD" : "πλέον",
+      "DEFINITION" : "اغلب، عموما",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 353
+    }#    {
+      "HEADWORD" : "πλέων πλέον",
+      "DEFINITION" : "بیشتر، بزرگتر، فراوان‌تر",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 354
+    }#    {
+      "HEADWORD" : "γνώμη γνώμης, ἡ",
+      "DEFINITION" : "اندیشه، پندار، فهم، نیت، غرض",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 355
+    }#    {
+      "HEADWORD" : "τιμή τιμῆς, ἡ",
+      "DEFINITION" : "شکوه، افتخار، ارج، ارزش، مقام",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 356
+    }#    {
+      "HEADWORD" : "μεταξύ",
+      "DEFINITION" : "میان، بین",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 357
+    }#    {
+      "HEADWORD" : "προσήκω προσήξω",
+      "DEFINITION" : "ربط داشتن، تعلق داشتن، درخور بودن؛ οἱ προσήκοντες: خویشاوندان τὰ προσήκoντα: وظایف",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 358
+    }#    {
+      "HEADWORD" : "πρίν",
+      "DEFINITION" : "پیش، قبل",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 359
+    }#    {
+      "HEADWORD" : "ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην",
+      "DEFINITION" : "اشتباه کردن، آسیب زدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 360
+    }#    {
+      "HEADWORD" : "στρατηγός –οῦ, ὁ",
+      "DEFINITION" : "فرمانده، سرلشکر",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 361
+    }#    {
+      "HEADWORD" : "οὐκέτι",
+      "DEFINITION" : "دیگر نه",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 362
+    }#    {
+      "HEADWORD" : "πρέσβυς πρέσβεως, ὁ",
+      "DEFINITION" : "پیرمرد، سفرا (در حالت جمع)",
+      "PART OF SPEECH" : "اسم (مختوم به έως و εύς)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 363
+    }#    {
+      "HEADWORD" : "παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην",
+      "DEFINITION" : "متوقف کردن، پایان دادن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 364
+    }#    {
+      "HEADWORD" : "τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην",
+      "DEFINITION" : "به پایان رسانیدن، مردن، به سرانجام رسانیدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 365
+    }#    {
+      "HEADWORD" : "μίγνυμι, μείξω, ἔμειξα, μέμειγμαι, ἐμείχθην",
+      "DEFINITION" : "آمیختن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 366
+    }#    {
+      "HEADWORD" : "λαός λαοῦ, ὁ",
+      "DEFINITION" : "مردم",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "انسان و هستی",
+      "FREQUENCY RANK" : 367
+    }#    {
+      "HEADWORD" : "θυγάτηρ θυγατρός, ἡ",
+      "DEFINITION" : "دختر",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 368
+    }#    {
+      "HEADWORD" : "οἰκία οἰκίας, ἡ",
+      "DEFINITION" : "خانه، ساختمان",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 369
+    }#    {
+      "HEADWORD" : "παραδίδωμι, παραδώσω, παρέδωκα, παραδέδωκα, παραδέδομαι, παρεδόθην",
+      "DEFINITION" : "واگذاردن، تسلیم کردن، تسلیم شدن",
+      "PART OF SPEECH" : "فعل (مختوم به μι)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 370
+    }#    {
+      "HEADWORD" : "ἔξω",
+      "DEFINITION" : "بیرون، بیرون از ، غیر از",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 371
+    }#    {
+      "HEADWORD" : "νῆσος νήσου, ἡ",
+      "DEFINITION" : "جزیره",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 372
+    }#    {
+      "HEADWORD" : "ἐκεῖ",
+      "DEFINITION" : "آنجا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 373
+    }#    {
+      "HEADWORD" : "ἐπιστήμη –ης, ἡ",
+      "DEFINITION" : " فهم، مهارت، دانش",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 374
+    }#    {
+      "HEADWORD" : "ἐάω, ἐάσω, εἴασα",
+      "DEFINITION" : "اجازه دادن، گذاشتن، رها کردن (+رایی و اسم مصدر)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 375
+    }#    {
+      "HEADWORD" : "θαυμάζω, θαυμάσομαι, ἐθαύμασα, τεθαύμακα, τεθαύμασμαι, ἐθαυμάσθην",
+      "DEFINITION" : "حیرت کردن، شگفت‌زده شدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 376
+    }#    {
+      "HEADWORD" : "αἰσθάνομαι, αἰσθήσομαι, 2 aor. ᾐσθόμην, ᾔσθημαι",
+      "DEFINITION" : "فهمیدن، ، درک کردن، گوش دادن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 377
+    }#    {
+      "HEADWORD" : "χαίρω, χαιρήσω, κεχάρηκα, κεχάρημαι, ἐχάρην",
+      "DEFINITION" : "خوش بودن، از چیزی لذت بردن (+برایی یا مصدر وصفی)",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 378
+    }#    {
+      "HEADWORD" : "χαλεπός –ή –όν",
+      "DEFINITION" : "سخت، دشوار",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 379
+    }#    {
+      "HEADWORD" : "τέκνον τέκνου, τό",
+      "DEFINITION" : "کودک، بچه",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 380
+    }#    {
+      "HEADWORD" : "καταλαμβάνω, καταλήψομαι, κατέλαβον, κατείληφα, κατείλημμαι, κατελήφθην",
+      "DEFINITION" : "به دست آوردن، مصادره کردن، به چنگ آوردن، غلبه کردن، وا داشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 381
+    }#    {
+      "HEADWORD" : "μάχομαι, μαχοῦμαι, ἐμαχεσάμην, μεμάχημαι",
+      "DEFINITION" : "جنگیدن، جدل کردن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 382
+    }#    {
+      "HEADWORD" : "μιμνήσκω, -μνήσω, -έμνησα, pf. μέμνημαι, ἐμνήσθην",
+      "DEFINITION" : " به یاد آوردن، یاد آوری کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 383
+    }#    {
+      "HEADWORD" : "λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην",
+      "DEFINITION" : "رهاندن، باز کردن، آزاد کردن، نابود کردن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 384
+    }#    {
+      "HEADWORD" : "θνῄσκω, 2 aor. -έθανον, τέθνηκα, θανοῦμαι",
+      "DEFINITION" : "مردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 384
+    }#    {
+      "HEADWORD" : "τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην",
+      "DEFINITION" : "گرامی داشتن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 386
+    }#    {
+      "HEADWORD" : "τεῖχος τείχους, τό",
+      "DEFINITION" : "دیوار",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 387
+    }#    {
+      "HEADWORD" : "ἴσως",
+      "DEFINITION" : "به یک اندازه، به مساوات، شاید",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 388
+    }#    {
+      "HEADWORD" : "αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην",
+      "DEFINITION" : "بالا رفتن، بالا بردن، برداشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 389
+    }#    {
+      "HEADWORD" : "ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα, ἀπέκτονα",
+      "DEFINITION" : "کشتن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 390
+    }#    {
+      "HEADWORD" : "στρατιώτης –ου, ὁ",
+      "DEFINITION" : "سرباز",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 391
+    }#    {
+      "HEADWORD" : "ἄνευ",
+      "DEFINITION" : "بدون (+اضافی)",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "حرف اضافه بدون جهت",
+      "FREQUENCY RANK" : 392
+    }#    {
+      "HEADWORD" : "πότερος ποτέρα πότερον",
+      "DEFINITION" : "کدام یک (از این دو)؟",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 393
+    }#    {
+      "HEADWORD" : "ἁπλῶς",
+      "DEFINITION" : "به تنهایی، به سادگی، در یک صورت",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 394
+    }#    {
+      "HEADWORD" : "πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα",
+      "DEFINITION" : " افتادن، فرو افتادن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 395
+    }#    {
+      "HEADWORD" : "τέταρτος –η –ον",
+      "DEFINITION" : "چهارم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 396
+    }#    {
+      "HEADWORD" : "κατασκευάζω, κατασκευάσω, κατεσκεύασα",
+      "DEFINITION" : "آماده ساختن، تجهیز کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 397
+    }#    {
+      "HEADWORD" : "ἐχθρός –ά –όν",
+      "DEFINITION" : "منفور، دشمن",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 398
+    }#    {
+      "HEADWORD" : "ἀγών ἀγῶνος, ὁ",
+      "DEFINITION" : "مسابقه، مبارزه، همایش",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 399
+    }#    {
+      "HEADWORD" : "κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην",
+      "DEFINITION" : "بازداشتن، مانع شدن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 400
+    }#    {
+      "HEADWORD" : "ἁμαρτάνω, ἁμαρτήσομαι, ἡμάρτησα, 2 aor. ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην",
+      "DEFINITION" : "خطا زدن، اشتباه کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 401
+    }#    {
+      "HEADWORD" : "διαφθείρω, διαφθερῶ, διέφθειρα, διέφθαρκα, διέφθαρμαι, διεφθάρην",
+      "DEFINITION" : "خراب کردن، نابود کردن، فاسد کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 402
+    }#    {
+      "HEADWORD" : "πως",
+      "DEFINITION" : "به نحوی، به طرز",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 403
+    }#    {
+      "HEADWORD" : "πόνος πόνου, ὁ",
+      "DEFINITION" : "زحمت، کوشش، رنج",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 404
+    }#    {
+      "HEADWORD" : "ἔνθα",
+      "DEFINITION" : "آنجا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 405
+    }#    {
+      "HEADWORD" : "τάξις τάξεως, ἡ",
+      "DEFINITION" : " ترتیب، نظم، آرایش نظامی، ارتش",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به ι)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 406
+    }#    {
+      "HEADWORD" : "πειράω (usually mid. πειράομαι), πειράσομαι, ἐπείρασα, πεπείραμαι, ἐπειράθην",
+      "DEFINITION" : " تلاش کردن، کوشیدن، آزمودن (+اضافی)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 407
+    }#    {
+      "HEADWORD" : "φοβέω, φοβήσω, ἐφόβησα, πεφόβημαι, ἐφοβήθην",
+      "DEFINITION" : " ترساندن، گریزاندن (میانی و مجهول: گریختن، هراسیدن)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 408
+    }#    {
+      "HEADWORD" : "βάλλω, βαλῶ, 2 aor. ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην",
+      "DEFINITION" : " انداختن، زدن (با چیزی)، پرتاب کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 409
+    }#    {
+      "HEADWORD" : "πονηρός –ά –όν",
+      "DEFINITION" : "بی ارزش، پر زحمت، بد، پلید",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 410
+    }#    {
+      "HEADWORD" : "ξένος ξένου, ὁ",
+      "DEFINITION" : "غریبه، مهمان",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 411
+    }#    {
+      "HEADWORD" : "βάρβαρος –ον",
+      "DEFINITION" : "بربر، غیر یونانی، بیگانه",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 412
+    }#    {
+      "HEADWORD" : "ὅπου",
+      "DEFINITION" : "هر جا ، جایی",
+      "PART OF SPEECH" : "حرف ربط وابسته‌ساز",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 413
+    }#    {
+      "HEADWORD" : "συμφέρω, συνοίσω, 1 aor. συνήνεγκα",
+      "DEFINITION" : "سود داشتن، مفید بودن (+برایی) συμφέρει: مصلحت است که  τὸ συμφέρον: سود، منفعت ",
+      "PART OF SPEECH" : "فعل (بی‌قاعده)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 414
+    }#    {
+      "HEADWORD" : "πυνθάνομαι, πεύσομαι, 2 aor. ἐπυθόμην, πέπυσμαι",
+      "DEFINITION" : " فراگرفتن، شنیدن، نیوشیدن، جویا شدن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 415
+    }#    {
+      "HEADWORD" : "δοῦλος δούλου, ὁ",
+      "DEFINITION" : "برده",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 416
+    }#    {
+      "HEADWORD" : "τέμνω, τεμῶ, 2 aor. ἔτεμον, -τέτμηκα, τέτμημαι, ἐτμήθην",
+      "DEFINITION" : "بریدن، تکه کردن، خرد کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 417
+    }#    {
+      "HEADWORD" : "χρήσιμος χρησίμη χρήσιμον",
+      "DEFINITION" : "سودمند، مفید",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 418
+    }#    {
+      "HEADWORD" : "ποῖος ποία ποῖον",
+      "DEFINITION" : "چه، که",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 419
+    }#    {
+      "HEADWORD" : "ὅπλον ὅπλου, τό",
+      "DEFINITION" : "سلاح، ابزار، اسباب",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 420
+    }#    {
+      "HEADWORD" : "πίστις πίστεως, ἡ",
+      "DEFINITION" : "اعتماد، راستکاری، یقین",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به ι)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 421
+    }#    {
+      "HEADWORD" : "ὑπολαμβάνω, ὑπολήψομαι, ὑπέλαβον, ὑπείληφα, ὑπείλημμαι, ὑπελήφθην",
+      "DEFINITION" : "تصاحب کردن، فهمیدن، انگاشتن، پاسخ دادن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 422
+    }#    {
+      "HEADWORD" : "ποιητής –οῦ, ὁ",
+      "DEFINITION" : "خالق، آفریدگار، سازنده، شاعر",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 423
+    }#    {
+      "HEADWORD" : "λανθάνω, λήσω, ἔλαθον, λέληθα",
+      "DEFINITION" : "از دید دور ماندن، ؟میانی و مجهول: فراموش کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 424
+    }#    {
+      "HEADWORD" : "βελτίων βέλτιον",
+      "DEFINITION" : "بهتر",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 425
+    }#    {
+      "HEADWORD" : "πάντως",
+      "DEFINITION" : "به هر صورت، در هر حال",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 426
+    }#    {
+      "HEADWORD" : "πορεύω, πορεύσω, ἐπόρευσα, πεπόρευμαι, ἐπορεύθην",
+      "DEFINITION" : "رساندن، بردن. میانی و مجهول: رفتن، برده شدن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 427
+    }#    {
+      "HEADWORD" : "ἀποκρίνω, ἀποκρινῶ, ἀπεκρινάμην, ἀπεκρίθη",
+      "DEFINITION" : "برگزیدن، جدا کردن. میانی: پاسخ دادن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 428
+    }#    {
+      "HEADWORD" : "πέντε",
+      "DEFINITION" : "پنج",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 429
+    }#    {
+      "HEADWORD" : "κίνδυνος κινδύνου, ὁ",
+      "DEFINITION" : "خطر، مخاطره",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 430
+    }#    {
+      "HEADWORD" : "κατηγορέω, κατηγορήσω, κατηγόρησα, κατηγόρηκα, κατηγόρημαι, κατηγορήθην",
+      "DEFINITION" : "متهم کردن، نکوهیدن (+اضافی)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 431
+    }#    {
+      "HEADWORD" : "τρέπω, τρέψω, ἔτρεψα, τέτροφα, ἐτράπην",
+      "DEFINITION" : "چرخیدن، گردیدن، گرداندن، گریزاندن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت لبی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 432
+    }#    {
+      "HEADWORD" : "ὅμως",
+      "DEFINITION" : "به هر حال، با وجود، علیرغم",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 433
+    }#    {
+      "HEADWORD" : "θεῖος θεία θεῖον",
+      "DEFINITION" : " الهی، ایزدی",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 434
+    }#    {
+      "HEADWORD" : "ἱππεύς ἱππέως, ὁ",
+      "DEFINITION" : " سواره‌نظام، اسب‌سوار، سوار",
+      "PART OF SPEECH" : "اسم (مختوم به έως و εύς)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 435
+    }#    {
+      "HEADWORD" : "κτάομαι, κτήσομαι, ἐκτησάμην, κέκτημαι",
+      "DEFINITION" : "به دست آوردن، گرفتن",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "مبادلات ",
+      "FREQUENCY RANK" : 436
+    }#    {
+      "HEADWORD" : "λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην",
+      "DEFINITION" : "واگذاشتن، رها کردن، ترک کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت لبی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 437
+    }#    {
+      "HEADWORD" : "βουλή βουλῆς, ἡ",
+      "DEFINITION" : "عزم، اراده، مشورت، رایزنی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 438
+    }#    {
+      "HEADWORD" : "ἐλπίς ἐλπίδος, ἡ",
+      "DEFINITION" : "امید، چشم‌داشت",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 439
+    }#    {
+      "HEADWORD" : "γραφή γραφῆς, ἡ",
+      "DEFINITION" : "طرح، نقش، نوشته",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 440
+    }#    {
+      "HEADWORD" : "τίκτω, τέξω or τέξομαι, ἔτεκον, τέτοκα, τέτεγμαι, ἐτέχθην",
+      "DEFINITION" : "پدید آوردن، به دنیا آوردن، ایجاد کردن، فرزند آوردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "روابط، خانه و خانواده",
+      "FREQUENCY RANK" : 441
+    }#    {
+      "HEADWORD" : "κομίζω, κομιῶ, ἐκόμισα, κεκόμικα, κεκόμισμαι, ἐκομίσθην",
+      "DEFINITION" : "نگه‌داری کردن، پاسداری کردن، بردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 442
+    }#    {
+      "HEADWORD" : "θυμός θυμοῦ, ὁ",
+      "DEFINITION" : "روان، جان، دل",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 443
+    }#    {
+      "HEADWORD" : "βλέπω, βλέψομαι, ἔβλεψα",
+      "DEFINITION" : "دیدن، نگریستن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت لبی)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 444
+    }#    {
+      "HEADWORD" : "φόβος φόβου, ὁ",
+      "DEFINITION" : "وحشت، ترس، گریز",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 445
+    }#    {
+      "HEADWORD" : "πολιτεία –ας, ἡ",
+      "DEFINITION" : "جمهوری، شهروندی، اساس‌نامه، قانون اساسی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 446
+    }#    {
+      "HEADWORD" : "στάδιον σταδίου, τό (pl. στάδια and στάδιοι)",
+      "DEFINITION" : "واحد اندازه‌گیری طول، حدودا معادل ۱۸۵ متر",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 447
+    }#    {
+      "HEADWORD" : "φρονέω, φρονήσω, ἐφρόνησα",
+      "DEFINITION" : "اندیشیدن، پنداشتن،",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 448
+    }#    {
+      "HEADWORD" : "τοιόσδε τοιάδε τοιόνδε",
+      "DEFINITION" : "چنان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 449
+    }#    {
+      "HEADWORD" : "ὁρμάω, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην",
+      "DEFINITION" : "به حرکت وا داشتن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 450
+    }#    {
+      "HEADWORD" : "παρασκευάζω, παρασκευάσω, παρεσκεύασα",
+      "DEFINITION" : "آماده کردن، مهیا ساختن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 451
+    }#    {
+      "HEADWORD" : "λαλέω, λαλήσω, ἐλάλησα, λελάληκα, ἐλαλήθην",
+      "DEFINITION" : "حرف زدن، پرگویی کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 452
+    }#    {
+      "HEADWORD" : "δράω, δράσω, ἔδρασα, δέδρακα, δέδραμαι, ἐδράσθην",
+      "DEFINITION" : "انجام دادن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "کار و فراغت",
+      "FREQUENCY RANK" : 453
+    }#    {
+      "HEADWORD" : "σκοπέω, σκοπήσω, ἐσκόπησα",
+      "DEFINITION" : "بررسی کردن، در نظر گرفتن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 454
+    }#    {
+      "HEADWORD" : "βοῦς βοός, ὁ/ἡ",
+      "DEFINITION" : "گاو",
+      "PART OF SPEECH" : "اسم (صرف سوم، بی‌قاعده)",
+      "SEMANTIC GROUP" : "گیاهان و جانداران",
+      "FREQUENCY RANK" : 455
+    }#    {
+      "HEADWORD" : "ἡμέτερος ἡμετέρα ἡμέτρον",
+      "DEFINITION" : "مال ما، َ ما",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 456
+    }#    {
+      "HEADWORD" : "γράμμα γράμματος, τό",
+      "DEFINITION" : "نقش، نویسه (الفبا، متن)",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 457
+    }#    {
+      "HEADWORD" : "ἐρωτάω, ἐρήσομαι, 2 aor. ἠρόμην",
+      "DEFINITION" : "جویا شدن، پرسیدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 458
+    }#    {
+      "HEADWORD" : "πολεμέω, πολεμήσω, ἐπολέμησα, πεπολέμηκα",
+      "DEFINITION" : "جنگیدن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 459
+    }#    {
+      "HEADWORD" : "θύω, θύσω, ἔθυσα, τέθυκα, τέθυμαι, ἐτύθην",
+      "DEFINITION" : "قربانی‌ کردن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 460
+    }#    {
+      "HEADWORD" : "ἐλαύνω, ἐλῶ, ἤλασα, -ελήλακα, ἐλήλαμαι, ἠλάθην",
+      "DEFINITION" : "راندن، راه‌بردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 461
+    }#    {
+      "HEADWORD" : "δέδοικα, δείσομαι, ἔδεισα",
+      "DEFINITION" : "هراسیدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 462
+    }#    {
+      "HEADWORD" : "σύμμαχος –ον",
+      "DEFINITION" : "هم‌نبرد، هم‌پیمان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 463
+    }#    {
+      "HEADWORD" : "ἡγεμών ἡγεμόνος, ὁ",
+      "DEFINITION" : "رهبر، فرمانده",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 464
+    }#    {
+      "HEADWORD" : "βαρύς βαρεῖα βαρύ",
+      "DEFINITION" : "سنگین، سخت، مشکل",
+      "PART OF SPEECH" : "صفت (مختوم به ύς، ύ و εῖα)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 465
+    }#    {
+      "HEADWORD" : "ὧδε",
+      "DEFINITION" : "چنین",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 466
+    }#    {
+      "HEADWORD" : "αἰσχρός –ά –όν",
+      "DEFINITION" : "زشت، شرم‌آور، ننگین",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 467
+    }#    {
+      "HEADWORD" : "εἰρήνη εἰρήνης, ἡ",
+      "DEFINITION" : "صلح",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 468
+    }#    {
+      "HEADWORD" : "ἁλίσκομαι, ἁλώσομαι, 2 aor. ἑάλων, ἑάλωκα",
+      "DEFINITION" : "فتح‌شده، تسخیر شده",
+      "PART OF SPEECH" : "فعل (مجهول‌نما)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 469
+    }#    {
+      "HEADWORD" : "δέκα",
+      "DEFINITION" : "ده",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 470
+    }#    {
+      "HEADWORD" : "ἀμείνων ἄμεινον",
+      "DEFINITION" : "بهتر، تواناتر، شجاع‌تر",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 471
+    }#    {
+      "HEADWORD" : "χείρων χεῖρον",
+      "DEFINITION" : "بدتر، پست تر (تفضیلی)",
+      "PART OF SPEECH" : "صفت (صرف سوم مختوم به ων و ον)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 472
+    }#    {
+      "HEADWORD" : "βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα",
+      "DEFINITION" : "یاری دادن (+برایی)",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 473
+    }#    {
+      "HEADWORD" : "λαμπρός –ά –όν",
+      "DEFINITION" : "درخشان",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "خصوصیات",
+      "FREQUENCY RANK" : 474
+    }#    {
+      "HEADWORD" : "ἀπαλλάσσω, ἀπαλλάξω, ἀπήλλαξα, ἀπήλλαχα, ἀπήλλαγμαι, ἀπηλλάχθην or ἀπηλλάγην",
+      "DEFINITION" : "رها کردن (از چیزی)، زدودن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 475
+    }#    {
+      "HEADWORD" : "βουλεύω βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην",
+      "DEFINITION" : "طرح ریختن، بر آن شدن؛ میانی: مشورت کردن، تامل کردن",
+      "PART OF SPEECH" : "فعل (مختوم به مصوت)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 476
+    }#    {
+      "HEADWORD" : "μάλα",
+      "DEFINITION" : "بسیار",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "حرف ربط/ قید",
+      "FREQUENCY RANK" : 477
+    }#    {
+      "HEADWORD" : "αἰτέω, αἰτήσω, ᾔτησα, ᾔτηκα, ᾔτημαι, ᾐτήθην",
+      "DEFINITION" : "درخواست کردن، خواهش کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 478
+    }#    {
+      "HEADWORD" : "σωτηρία σωτηρίας, ἡ",
+      "DEFINITION" : "امنیت، نگهداری",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "امنیت و سلامت",
+      "FREQUENCY RANK" : 479
+    }#    {
+      "HEADWORD" : "ἆρα",
+      "DEFINITION" : "آیا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 480
+    }#    {
+      "HEADWORD" : "διώκω, διώξομαι, ἐδίωξα, δεδίωχα, ἐδιώχθην",
+      "DEFINITION" : "دنبال کردن، تعقیب کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت کامی)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 481
+    }#    {
+      "HEADWORD" : "δαίμων δαίμονος, ὁ/ἡ",
+      "DEFINITION" : "نیروی ایزدی، روح، ایزد(بانو)، بخت",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "دین",
+      "FREQUENCY RANK" : 482
+    }#    {
+      "HEADWORD" : "οὐκοῦν",
+      "DEFINITION" : "بی شک ",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 483
+    }#    {
+      "HEADWORD" : "γλῶσσα γλώσσης, ἡ",
+      "DEFINITION" : "زبان",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "اجزا بدن",
+      "FREQUENCY RANK" : 484
+    }#    {
+      "HEADWORD" : "ἑπτά",
+      "DEFINITION" : "هفت",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 485
+    }#    {
+      "HEADWORD" : "τολμάω, τολμήσω, ἐτόλμησα, τετόλμηκα, τετόλμημαι, ἐτολμήθην",
+      "DEFINITION" : "تاب آوردن، جرات کردن",
+      "PART OF SPEECH" : "فعل (ادغام شده)",
+      "SEMANTIC GROUP" : "ادراکات و احساسات",
+      "FREQUENCY RANK" : 486
+    }#    {
+      "HEADWORD" : "δεσπότης –ου, ὁ",
+      "DEFINITION" : "ارباب",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 487
+    }#    {
+      "HEADWORD" : "εἰκός εἰκότος, τό",
+      "DEFINITION" : "احتمال، محتمل",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "ذهن، دریافت، و یادگیری",
+      "FREQUENCY RANK" : 488
+    }#    {
+      "HEADWORD" : "ἄδικος ἄδικον",
+      "DEFINITION" : "ناعادلانه",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "اخلاق و ارزش‌ها",
+      "FREQUENCY RANK" : 489
+    }#    {
+      "HEADWORD" : "εἴκοσι(ν)",
+      "DEFINITION" : "بیست",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 490
+    }#    {
+      "HEADWORD" : "μυρίος μυρία μυρίον",
+      "DEFINITION" : "بی‌اندازه، بی‌شمار، ده‌هزار",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 491
+    }#    {
+      "HEADWORD" : "αὐτίκα",
+      "DEFINITION" : "اکنون",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 492
+    }#    {
+      "HEADWORD" : "δέκατος –η –ον",
+      "DEFINITION" : "دهم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 493
+    }#    {
+      "HEADWORD" : "βαίνω, βήσομαι, 2 aor. ἔβην, βέβηκα",
+      "DEFINITION" : "قدم‌ برداشتن، رفتن، آمدن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "حرکت",
+      "FREQUENCY RANK" : 494
+    }#    {
+      "HEADWORD" : "περ",
+      "DEFINITION" : "ادات تاکید متصل",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 495
+    }#    {
+      "HEADWORD" : "ἐλεύθερος ἐλευθέρα ἐλεύθερον",
+      "DEFINITION" : "آزاد، رها",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 496
+    }#    {
+      "HEADWORD" : "στρατιά –ᾶς, ἡ",
+      "DEFINITION" : "لشکر، پیاده‌نظام",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 497
+    }#    {
+      "HEADWORD" : "ἀμφί",
+      "DEFINITION" : "اطراف، پیرامون، برای",
+      "PART OF SPEECH" : "حرف اضافه",
+      "SEMANTIC GROUP" : "جهت",
+      "FREQUENCY RANK" : 498
+    }#    {
+      "HEADWORD" : "συμφορά –ᾶς, ἡ",
+      "DEFINITION" : "پیش‌آمد، رویداد، بداقبالی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "مرگ و زندگی",
+      "FREQUENCY RANK" : 499
+    }#    {
+      "HEADWORD" : "ἑκατόν",
+      "DEFINITION" : "صد",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 500
+    }#    {
+      "HEADWORD" : "νίκη νίκης, ἡ",
+      "DEFINITION" : "پیروزی، چیرگی",
+      "PART OF SPEECH" : "اسم (صرف اول)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 501
+    }#    {
+      "HEADWORD" : "ἔπος ἔπους, τό",
+      "DEFINITION" : "واژه، حکایت، نظم (کلام موزون)",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به σ)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 502
+    }#    {
+      "HEADWORD" : "στρατός –οῦ, ὁ",
+      "DEFINITION" : "لشکر",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جنگ و صلح",
+      "FREQUENCY RANK" : 503
+    }#    {
+      "HEADWORD" : "φράζω, φράσω, ἔφρασα, πέφρακα, πέφρασμαι, ἐφράσθην",
+      "DEFINITION" : "نمایاندن، آشکار ساختن. در حالت میانی و مجهول: تامل کردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت دندانی)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 504
+    }#    {
+      "HEADWORD" : "ἀργύριον ἀργυρίου, τό",
+      "DEFINITION" : "پول، سکه",
+      "PART OF SPEECH" : "اسم (صرف دوم)",
+      "SEMANTIC GROUP" : "جامعه و حکومت",
+      "FREQUENCY RANK" : 505
+    }#    {
+      "HEADWORD" : "τριάκοντα",
+      "DEFINITION" : "سی",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 506
+    }#    {
+      "HEADWORD" : "ἕξ",
+      "DEFINITION" : "شش",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 507
+    }#    {
+      "HEADWORD" : "πεμπτός –ή –όν",
+      "DEFINITION" : "پنجم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 508
+    }#    {
+      "HEADWORD" : "μάρτυς μάρτυρος, ὁ/ἡ",
+      "DEFINITION" : "شاهد",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "عدل و داد",
+      "FREQUENCY RANK" : 509
+    }#    {
+      "HEADWORD" : "χαλκοῦς –ῆ –οῦν",
+      "DEFINITION" : "مسی، برنزی",
+      "PART OF SPEECH" : "صفت (صرف اول و دوم)",
+      "SEMANTIC GROUP" : "زمین",
+      "FREQUENCY RANK" : 510
+    }#    {
+      "HEADWORD" : "ἕβδομος –η –ον",
+      "DEFINITION" : "هفتم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 511
+    }#    {
+      "HEADWORD" : "ποῦ",
+      "DEFINITION" : "کجا؟؛ (به ندرت) چگونه؟",
+      "PART OF SPEECH" : "ضمیر",
+      "SEMANTIC GROUP" : "ضمیر/ادات پرسش",
+      "FREQUENCY RANK" : 512
+    }#    {
+      "HEADWORD" : "ναί",
+      "DEFINITION" : "همانا",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "ادات",
+      "FREQUENCY RANK" : 513
+    }#    {
+      "HEADWORD" : "φῶς φωτός, τό",
+      "DEFINITION" : "نور",
+      "PART OF SPEECH" : "اسم (صرف سوم مختوم به صامت)",
+      "SEMANTIC GROUP" : "نظم جهانی",
+      "FREQUENCY RANK" : 514
+    }#    {
+      "HEADWORD" : "ὀκτώ",
+      "DEFINITION" : "هشت",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 515
+    }#    {
+      "HEADWORD" : "ἕκτος –η –ον",
+      "DEFINITION" : "ششم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 516
+    }#    {
+      "HEADWORD" : "τριακοστός –ή –όν",
+      "DEFINITION" : "سی‌ام",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 517
+    }#    {
+      "HEADWORD" : "ἐννέα",
+      "DEFINITION" : "نه",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 518
+    }#    {
+      "HEADWORD" : "πότε",
+      "DEFINITION" : "کِی؟، زمانی که...",
+      "PART OF SPEECH" : "قید",
+      "SEMANTIC GROUP" : "زمان",
+      "FREQUENCY RANK" : 519
+    }#    {
+      "HEADWORD" : "ὄγδοος –η –ον",
+      "DEFINITION" : "هشتم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 520
+    }#    {
+      "HEADWORD" : "ἔνατος –α –ον",
+      "DEFINITION" : "نهم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 521
+    }#    {
+      "HEADWORD" : "εἰκοστός –ή –όν",
+      "DEFINITION" : "بیستم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 522
+    }#    {
+      "HEADWORD" : "ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην",
+      "DEFINITION" : "پیام آوردن",
+      "PART OF SPEECH" : "فعل (مختوم به صامت روان)",
+      "SEMANTIC GROUP" : "گفتن و نوشتن",
+      "FREQUENCY RANK" : 523
+    }#    {
+      "HEADWORD" : "ἑκατοστός –ή –όν",
+      "DEFINITION" : "صدم",
+      "PART OF SPEECH" : "صفت (شمارشی)",
+      "SEMANTIC GROUP" : "سنجش و شمارش",
+      "FREQUENCY RANK" : 524
+    }
+  ]
+}
